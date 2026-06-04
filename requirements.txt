@@ -1,0 +1,4 @@
+indic-transliteration
+pytest
+fastapi
+uvicorn
