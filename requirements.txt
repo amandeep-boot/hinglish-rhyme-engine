@@ -1,4 +1,5 @@
 indic-transliteration
+cmudict
 pytest
 fastapi
 uvicorn
